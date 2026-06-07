@@ -1,28 +1,16 @@
-# F1 Race Engineer Setup Guides
+# ⚠️ Ez a repó NYUGDÍJAZVA / This repo is RETIRED
 
-Complete setup documentation for F1 Race Engineer with F1 25 telemetry integration.
+A dokumentáció és a letöltés **átköltözött egy helyre** — a kiadások (releases) repójába:
 
-## 🆕 Latest updates (2026-06)
+The documentation and downloads **moved to one place** — the releases repo:
 
-The F1 25 — 2026 Season Pack DLC was released on June 3, 2026. New features
-not yet in the PDF Setup Guides:
+## 👉 https://github.com/ZeroPointRace/F1-Race-engineer-releases
 
-- **🇭🇺 Magyar**: [Mi újság a 2026-06-os frissítésben?](WHATS_NEW_2026.md)
-- **🇬🇧 English**: [What's new in the June 2026 update?](WHATS_NEW_2026_EN.md)
-
-The PDF Setup Guides below remain valid as the base installation reference.
-
-## Available Guides
-
-- [Hungarian / Magyar](Setup_Guide_HUN.pdf)
-- [English / English](Setup_Guide_EN.pdf)
+Ott megtalálod / There you'll find:
+- ⬇️ **Letöltés / Download:** [legfrissebb verzió / latest release](https://github.com/ZeroPointRace/F1-Race-engineer-releases/releases/latest)
+- 📖 **Kézikönyv / Manual:** [magyar](https://github.com/ZeroPointRace/F1-Race-engineer-releases/blob/main/manual.md) · [English](https://github.com/ZeroPointRace/F1-Race-engineer-releases/blob/main/manual_EN.md)
+- 📜 **Changelog:** [magyar](https://github.com/ZeroPointRace/F1-Race-engineer-releases/blob/main/CHANGELOG.md) · [English](https://github.com/ZeroPointRace/F1-Race-engineer-releases/blob/main/CHANGELOG_EN.md)
 
 ---
 
-**F1 Race Engineer © 2026 ZeroPoint Racing**
-
-Support: [f1zeropointracing@gmail.com](mailto:f1zeropointracing@gmail.com)
-
-GitHub: [github.com/ZeroPointRace/F1-Race-engineer](https://github.com/ZeroPointRace/F1-Race-engineer)
-
-Support the project: [buymeacoffee.com/zeropointrace](https://buymeacoffee.com/zeropointrace)
+*F1 Race Engineer © 2026 ZeroPoint Racing — Support: f1zeropointracing@gmail.com*
